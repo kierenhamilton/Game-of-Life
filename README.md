@@ -4,8 +4,8 @@
 - Cells switch state upon mouse press
 - Updates upon spacebar press
 ## Images
-![50x50 GoL](image_path "./include/life1.png")
-![10x10 GoL](image_path "./include/life2.png")
+![50x50 GoL](image_path "include/life1.png")
+![10x10 GoL](image_path "include/life2.png")
 ## Dependancies
 - Raylib
 ## Build instructions
