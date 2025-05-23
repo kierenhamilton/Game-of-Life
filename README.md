@@ -3,9 +3,11 @@
 - Variable grid
 - Cells switch state upon mouse press
 - Updates upon spacebar press
-## Images
-![50x50 GoL](image_path "include/life1.png")
-![10x10 GoL](image_path "include/life2.png")
+## Screenshots
+| 50x50 Grid | 10x10 Grid |
+|------------|------------|
+| ![50x50 Game of Life](include/life1.png) | ![10x10 Game of Life](include/life2.png) |
+
 ## Dependancies
 - Raylib
 ## Build instructions
