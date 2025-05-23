@@ -6,13 +6,14 @@
 ## Dependancies
 - Raylib.h
 ## Build instructions
+- Assuming raylib is on the path ~ 
 ### UNIX
 ```
- ++ main.cpp objects.h objects.cpp -lraylib
+ ++ main.cpp objects.h -lraylib
 ```
 ### WINDOWS
 ```
-g++ -o main.cpp objects.h objects.cpp -Ipath_to_raylib/include -Lpath_to_raylib/lib -lraylib -lopengl32 -lgdi32 -lwinmm
+g++ -o main.cpp objects.h -Ipath_to_raylib/include -Lpath_to_raylib/lib -lraylib -lopengl32 -lgdi32 -lwinmm
 ```
 ## TODO
 - Implement a propper buildsystem with CMake
